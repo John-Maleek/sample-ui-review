@@ -28,7 +28,7 @@ function NavList() {
                 fill="#726CEE"
               />
             </svg>
-            Todo List
+            <Text pl={2}>Todo List</Text>
           </MenuItem>
           <MenuItem>
             <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
@@ -37,7 +37,7 @@ function NavList() {
                 fill="#4BB1DA"
               />
             </svg>
-            Calendar
+            <Text pl={2}>Calendar</Text>
           </MenuItem>
           <MenuItem>
             <svg width="13" height="17" xmlns="http://www.w3.org/2000/svg">
@@ -46,7 +46,7 @@ function NavList() {
                 fill="#EDD556"
               />
             </svg>
-            Reminders
+            <Text pl={2}>Reminders</Text>
           </MenuItem>
           <MenuItem>
             <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
@@ -55,7 +55,7 @@ function NavList() {
                 fill="#8E4CB6"
               />
             </svg>
-            Planning
+            <Text pl={2}>Planning</Text>
           </MenuItem>
         </MenuList>
       </Menu>
